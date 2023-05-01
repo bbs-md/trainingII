@@ -1,2 +1,3 @@
-New class DevA
+Modified DevA
 modified method devA
+Added DevA
