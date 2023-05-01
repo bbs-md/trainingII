@@ -1,3 +1,6 @@
 Modified DevA
 modified method devA
 Added DevA
+new method0 devA
+new method1 devA
+new method2 devA
