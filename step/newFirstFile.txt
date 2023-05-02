@@ -3,3 +3,4 @@ initial devA
 initial devB
 modified DevB
 modified DevB 2
+new modified 3
